@@ -1,0 +1,9 @@
+PLAN TO LEARN WEB DEVELOPMENT
+
+- HTML
+- CSS
+- JavaScript
+  * Framework JS
+- PHP
+  * Framework PHP
+- Personal Branding
