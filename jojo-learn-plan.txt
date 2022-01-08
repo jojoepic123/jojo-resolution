@@ -1,6 +1,0 @@
-PLAN TO LEARN WEB DEVELOPMENT
-
-- HTML
-- CSS
-- JavaScript
-- Personal Branding
